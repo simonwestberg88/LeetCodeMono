@@ -8,6 +8,7 @@
         
         ulong.TryParse(number1, out num1);
         ulong.TryParse(number2, out num2);
+        //todo add the numbers in a different way. need to handle numbers larger than ulong
         var add = num1 + num2;
 
         var sum = GetSumLinked(num1 + num2);
