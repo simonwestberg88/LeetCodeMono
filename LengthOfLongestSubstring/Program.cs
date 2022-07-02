@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using LengthOfLongestSubstring;
+
+var test = new List<string> { "pwwkew" };
+foreach (var s in test)
+{
+    Console.WriteLine($"length: {Solution.LengthOfLongestSubstring(s)}");
+    
+}
