@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromic-substring", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "..\TwoSum\TwoSum\TwoSum.csproj", "{CD8B5D69-D7AC-43F2-A0D8-1756AA4753AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag-conversion", "zigzag-conversion\zigzag-conversion.csproj", "{E05B3632-D885-4C6F-AEDE-D3534A1A235A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CD8B5D69-D7AC-43F2-A0D8-1756AA4753AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD8B5D69-D7AC-43F2-A0D8-1756AA4753AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD8B5D69-D7AC-43F2-A0D8-1756AA4753AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
