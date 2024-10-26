@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "..\TwoSum\TwoSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag-conversion", "zigzag-conversion\zigzag-conversion.csproj", "{E05B3632-D885-4C6F-AEDE-D3534A1A235A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{BF7B39A2-BAC8-411A-A597-02CFCB078472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05B3632-D885-4C6F-AEDE-D3534A1A235A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
