@@ -7,8 +7,11 @@
 
 using zigzag_conversion;
 
-var output = Solution.Convert("PAYPALISHIRING", 3);
-Console.WriteLine(output);
+// var output = Solution.Convert("PAYPALISHIRING", 3);
+// Console.WriteLine(output);
+//
+// var solution = Solution.Convert("PAYPALISHIRING", 4);
+// Console.WriteLine(solution);
 
-var solution = Solution.Convert("PAYPALISHIRING", 4);
-Console.WriteLine(solution);
+var t3 = Solution.Convert("AB", 1);
+Console.WriteLine(t3);

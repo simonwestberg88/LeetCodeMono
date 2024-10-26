@@ -13,6 +13,10 @@ public static class Solution {
         foreach (var c in s)
         {
             lists[index].Add(c);
+            if (numRows == 1)
+            {
+                continue;
+            }
             if (index == numRows-1)
             {
                 k = -1;
