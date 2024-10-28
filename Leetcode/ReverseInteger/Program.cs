@@ -15,6 +15,6 @@ using ReverseInteger;
 
 var sln = new Solution();
 
-var test1 = sln.Reverse(321);
+var test1 = sln.Reverse(12);
 
 Console.WriteLine(test1);
