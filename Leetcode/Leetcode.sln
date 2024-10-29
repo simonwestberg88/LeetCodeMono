@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zigzag-conversion", "zigzag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{BF7B39A2-BAC8-411A-A597-02CFCB078472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAtio", "MyAtio\MyAtio.csproj", "{37D812B3-DCCE-447A-A9A7-F5CB66CD0AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7B39A2-BAC8-411A-A597-02CFCB078472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D812B3-DCCE-447A-A9A7-F5CB66CD0AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D812B3-DCCE-447A-A9A7-F5CB66CD0AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D812B3-DCCE-447A-A9A7-F5CB66CD0AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D812B3-DCCE-447A-A9A7-F5CB66CD0AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
